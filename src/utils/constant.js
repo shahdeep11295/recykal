@@ -1,0 +1,5 @@
+export const PRODUCT_DATA = "PRODUCT_DATA"
+export const SHOWLOADER = "SHOWLOADER"
+export const HIDELOADER = "HIDELOADER"
+
+export const UPDATE_DATA = "UPDATE_DATA"
